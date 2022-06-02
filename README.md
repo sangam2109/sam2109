@@ -10,7 +10,7 @@
 
 <picture>
 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mmumullana.org%2Fwhat-is-the-difference-between-computer-science-and-computer-science-engineering%2F&psig=AOvVaw0yHQtGV6QkO62qwiObi67t&ust=1654283840351000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj9kNi9j_gCFQAAAAAdAAAAABAD)
-  </picture> 
+</picture> 
   
 ### I have a hobbies like writing poetry .
 ### Below written is one of my own written poetries.
