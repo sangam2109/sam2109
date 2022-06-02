@@ -3,7 +3,7 @@
 ## I completed my Matriculation and Higher Secondary study from G.H.G Khalsa Sen. Sec. School, Mandi Bahadurgarh.
 
 | COURSE   | PERCENTAGE SCORED  |
-| ------------------------------|
+|: ------------------------------:|
 |MATRICULATION(10TH) |  94.92%  |
 | HIGHER SECONDARY   |   93.77% |
 
