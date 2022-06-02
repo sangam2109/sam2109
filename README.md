@@ -1,7 +1,7 @@
 # My Name is Sangam Arora. I am pursuing my btech degree from guru nanak dev engineering college , ludhiana.
 ## I am from Ahmedgarh .
 ### I have a hobbies like writing poetry .
-### below written is one of my own written poetries.
+### Below written is one of my own written poetries.
 #### ਬਾਪੂ ❣️ 
 
 #### ਅੱਜ ਦਿਲ ਵਿਚ ਆਯਾ ਲਿਖਾ ਉਸ ਬਾਰੇ ,
