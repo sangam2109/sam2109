@@ -1,7 +1,4 @@
----
----
 
-@import"{{ site.theme }}";
 
 
 # My Name is Sangam Arora. I am pursuing my btech degree from guru nanak dev engineering college , ludhiana.
