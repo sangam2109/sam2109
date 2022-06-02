@@ -1,3 +1,9 @@
+---
+---
+
+@import"{{ site.theme }}";
+
+
 # My Name is Sangam Arora. I am pursuing my btech degree from guru nanak dev engineering college , ludhiana.
 ## I am from Ahmedgarh .
 ## I completed my Matriculation and Higher Secondary study from G.H.G Khalsa Sen. Sec. School, Mandi Bahadurgarh.
